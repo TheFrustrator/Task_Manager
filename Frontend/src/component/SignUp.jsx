@@ -9,7 +9,7 @@ import {
   MESSAGE_SUCCESS
 } from './../assests/dummy';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:4000';
+const API_URL = import.meta.env.VITE_API_URL || 'https://task-manager-edbm.onrender.com';
 const INITIAL_FORM = { name: '', email: '', password: '' };
 
 const SignUp = ({ onSwitchMode }) => {

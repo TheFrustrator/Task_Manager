@@ -29,8 +29,8 @@ import { useOutletContext } from "react-router-dom";
 import TaskItem from "../component/TaskItem";
 import axios from "axios";
 import TaskModel from "../component/TaskModel";
+const API_BASE = 'https://task-manager-edbm.onrender.com/api/tasks';
 
-const API_BASE = 'http://localhost:4000/api/tasks';
 
 const Dashboard = () => {
   const { tasks, refreshTasks } = useOutletContext();

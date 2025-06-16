@@ -5,7 +5,7 @@ import axios from 'axios';
 import {format, isToday} from 'date-fns'
 import TaskModel from './TaskModel'
 
-const API_BASE = 'http://localhost:4000/api/tasks';
+const API_BASE = 'https://task-manager-edbm.onrender.com/api/tasks';
 
 const TaskItem = ({ task, onRefresh, onLogout, showCompleteCheckbox = true }) => {
   const [showMenu, setShowMenu] = useState(false);
