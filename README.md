@@ -4,9 +4,9 @@ This is a full-stack **Task Management System** built to manage, organize, and t
 
 ## 🛠 Tech Stack
 
-- **Frontend**: (You can update this if you're using React, HTML/CSS, etc.)
+- **Frontend**: (MERN STACK)
 - **Backend**: Node.js, Express.js
-- **Database**: (e.g., MongoDB / PostgreSQL — specify)
+- **Database**: (e.g., MongoDB )
 - **Version Control**: Git + GitHub
 
 ## 📁 Project Structure
@@ -35,7 +35,7 @@ This is a full-stack **Task Management System** built to manage, organize, and t
 cd backend
 npm install
 🧑‍💻 Author
-TheFrustrator
+Sudip Bhunia aka TheFrustrator
 GitHub: https://github.com/TheFrustrator
 
 git clone https://github.com/TheFrustrator/Task_Manager.git
