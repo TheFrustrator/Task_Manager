@@ -4,7 +4,7 @@ This is a full-stack **Task Management System** built to manage, organize, and t
 
 ## 🛠 Tech Stack
 
-- **Frontend**: (MERN STACK)
+- **Frontend**: (React.js)
 - **Backend**: Node.js, Express.js
 - **Database**: (e.g., MongoDB )
 - **Version Control**: Git + GitHub
