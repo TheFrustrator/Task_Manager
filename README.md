@@ -6,7 +6,7 @@ This is a full-stack **Task Management System** built to manage, organize, and t
 
 - **Frontend**: (React.js)
 - **Backend**: Node.js, Express.js
-- **Database**: (e.g., MongoDB )
+- **Database**: (MongoDB )
 - **Version Control**: Git + GitHub
 
 ## 📁 Project Structure
