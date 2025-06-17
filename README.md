@@ -55,9 +55,6 @@ root project folder.
 3. Add and commit the file:
 
 
-## 🌐 Website Link
-https://task-manager-sudip-bhunia.netlify.app/
-
 ```bash
 git add README.md
 git commit -m "Add README.md for project documentation"
