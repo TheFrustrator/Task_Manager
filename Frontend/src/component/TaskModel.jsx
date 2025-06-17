@@ -2,7 +2,7 @@ import React, { useCallback, useEffect, useState } from 'react'
 import { baseControlClasses, DEFAULT_TASK, priorityStyles } from './../assests/dummy';
 import { AlignLeft, Calendar, CheckCircle, Flag, PlusCircle, Save, X } from 'lucide-react';
 
-const API_BASE = 'http://localhost:4000/api/tasks';
+const API_BASE = 'https://task-manager-edbm.onrender.com/api/tasks';
 
 const TaskModel = ({ isOpen, onClose, taskToEdit, onSave, onLogout }) => {
 
