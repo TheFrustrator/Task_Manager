@@ -27,6 +27,9 @@ This is a full-stack **Task Management System** built to manage, organize, and t
 - API-based modular routing
 - Scalable backend architecture
 
+  ## 🌐 Website Link
+https://task-manager-sudip-bhunia.netlify.app/
+
 ## 📦 Getting Started
 
 ### 1. Clone the repository
@@ -48,13 +51,11 @@ cd Task_Manager
 
 1. Create a file named `README.md` in your
 root project folder.
-
 2. Paste the code above into it.
-
 3. Add and commit the file:
 
 
-### 🌐 Website Link
+## 🌐 Website Link
 https://task-manager-sudip-bhunia.netlify.app/
 
 ```bash
